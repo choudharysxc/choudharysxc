@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kinjal choudhary.
-- 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning c/c++ and html.
-- 💞️ I’m looking to collaborate on web projects .
+- 👀 I’m interested in coding and hacking.
+- 🌱 I’m currently learning c/c++ and kali linux.
+- 💞️ I’m looking to collaborate on cyber security projects and also web d .
 - 📫 reach me at kinjalchoudhary11@gmail.com.
 
 <!---
