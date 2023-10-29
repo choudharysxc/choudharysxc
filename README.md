@@ -1,8 +1,9 @@
 - 👋 Hi, I’m kinjal choudhary.
-- 👀 I’m interested in coding and hacking.
-- 🌱 I’m currently learning c/c++ and kali linux.
-- 💞️ I’m looking to collaborate on cyber security projects and also web d .
+- 👀 I’m interested in Data Science and ML.
+- 🌱 I’m currently learning Pyhton and working on projects.
+- 💞️ I’m looking to collaborate on Python projects and also Programming.
 - 📫 reach me at kinjalchoudhary11@gmail.com.
+- I code in C/C++ and Python knows Basic web dev and SQL.
 
 <!---
 choudharysxc/choudharysxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
