@@ -1,4 +1,4 @@
-[![MasterHead]https://unsplash.com/photos/nebula--hI5dX2ObAs](https://github.com/choudharysxc)
+[![MasterHead](https://unsplash.com/photos/nebula--hI5dX2ObAs)](https://github.com/choudharysxc)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choudharysxc)](https://git.io/streak-stats)
 
 <!---
