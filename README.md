@@ -9,7 +9,8 @@
 
 ## 🛠 What I'm Cooking  
 - 📊 **House Price Prediction**: A project to predict Kolkata house prices, but cooler.  
-- 📱 **Android Dev**: Kotlin, Jetpack Compose, and my eternal battle with UI perfection.  
+- 📱 **Android Dev**: Kotlin, Jetpack Compose, and my eternal battle with UI perfection.
+- **A Slag Filter** : it's kinde of weird and you can find it in the repo.
 
 ## 🤖 Tech Stack  
 - **Languages**: Python, Kotlin, Go, Bash, C (i find it cool) 
